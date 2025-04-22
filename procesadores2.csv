@@ -1,0 +1,38 @@
+﻿Procesador;Cantidad Núcleos;Modelo;Velocidad Procesador (GHz);Generación;Tipo de RAM
+Intel Core i5;6;i5-10400;2.9 (Turbo: 4.3);10;DDR4
+Intel Core i5;6;i5-11400;2.6 (Turbo: 4.4);11;DDR4
+Intel Core i5;6;i5-12400;2.5 (Turbo: 4.4);12;DDR4/DDR5
+Intel Core i5;6;i5-13400;2.5 (Turbo: 4.6);13;DDR4/DDR5
+Intel Core i3;4;i3-10100;3.6 (Turbo: 4.3);10;DDR4
+Intel Core i3;4;i3-11100;3.6 (Turbo: 4.4);11;DDR4
+Intel Core i3;4;i3-12100;3.3 (Turbo: 4.3);12;DDR4/DDR5
+Intel Core i7;8;i7-10700;2.9 (Turbo: 4.7);10;DDR4
+Intel Core i7;8;i7-11700;2.5 (Turbo: 4.9);11;DDR4
+Intel Core i7;12;i7-12700;2.1 (Turbo: 4.9);12;DDR4/DDR5
+Intel Core i7;16;i7-13700K;3.4 (Turbo: 5.4);13;DDR4/DDR5
+AMD Ryzen 3;4;Ryzen 3 1200;3.1 (Turbo: 3.4);1;DDR4
+AMD Ryzen 3;4;Ryzen 3 3100;3.6 (Turbo: 3.9);3;DDR4
+AMD Ryzen 3;4;Ryzen 3 4100;3.8 (Turbo: 4.0);5;DDR4
+AMD Ryzen 5;6;Ryzen 5 1600;3.2 (Turbo: 3.6);1;DDR4
+AMD Ryzen 5;6;Ryzen 5 3600;3.6 (Turbo: 4.2);3;DDR4
+AMD Ryzen 5;6;Ryzen 5 5600X;3.7 (Turbo: 4.6);5;DDR4
+AMD Ryzen 5;6;Ryzen 5 7600X;4.3 (Turbo: 5.1);5;DDR5
+Intel Xeon;4-28;Xeon E-2236;3.4;Varios;DDR4
+Intel Xeon;4-28;Xeon W-2290;3.0;Varios;DDR4
+Intel Xeon;8-40;Xeon Scalable 8280;2.7;Varios;DDR4/DDR5
+AMD Ryzen 7;8;Ryzen 7 3700X;3.6 (Turbo: 4.4);3;DDR4
+AMD Ryzen 7;8;Ryzen 7 5800X;3.8 (Turbo: 4.7);5;DDR4
+AMD Ryzen 7;16;Ryzen 7 7700X;4.5 (Turbo: 5.4);5;DDR5
+AMD Ryzen 9;12;Ryzen 9 5900X;3.7 (Turbo: 4.8);3;DDR4
+AMD Ryzen 9;16;Ryzen 9 7950X;4.5 (Turbo: 5.0);4;DDR5
+Intel Pentium;2;Pentium Gold G5400;3.7;Varios;DDR4
+Intel Pentium;4;Pentium Silver J5040;2.0;Varios;DDR4
+Intel Pentium;2;Pentium Gold G5400;3.7;Varios;DDR4
+Intel Pentium;2;Pentium Silver J5040;2.0;Varios;DDR4
+Intel Pentium;2;Pentium Gold G6400;4.0;Varios;DDR4
+Intel Core i9;16;i9-10900K;3.7 (Turbo: 5.3);10;DDR4
+Intel Core i9;16;i9-11900K;3.5 (Turbo: 5.3);11;DDR4
+Intel Core i9;16;i9-12900K;3.2 (Turbo: 5.2);12;DDR4/DDR5
+Intel Core i9;16;i9-13900K;3.0 (Turbo: 5.8);13;DDR4/DDR5
+Apple M1;8;M1;3.2;1;LPDDR4
+Apple M2;8;M2;3.5;2;LPDDR5
