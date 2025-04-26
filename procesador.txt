@@ -1,4 +1,4 @@
-Tipo_Procesador	Cantidad_Nucleos	Modelo	Velocidad_Procesador	Generacion_Procesador	Tipo de RAM
+Tipo_Procesador	Cantidad_Nucleos	Modelo	Velocidad_Procesador	Generacion_Procesador	Tipo_RAM
 AMD Ryzen 3	4	Ryzen 3 1200	3.1 (Turbo: 3.4)	1	DDR4
 AMD Ryzen 3	4	Ryzen 3 3100	3.6 (Turbo: 3.9)	3	DDR4
 AMD Ryzen 3	4	Ryzen 3 4100	3.8 (Turbo: 4.0)	5	DDR4
