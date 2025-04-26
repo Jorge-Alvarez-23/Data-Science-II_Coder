@@ -1,0 +1,51 @@
+Tarjeta de Video,Tipo de Tarjeta Gráfica,Tipo de Memoria,Memoria de Tarjeta Gráfica (Aprox.),Resolución Máxima (Típica),Conexiones (Típicas)
+AMD Radeon RX550,Dedicada,GDDR5,2GB / 4GB,4096 x 2160,"DisplayPort, HDMI, DVI"
+Nvidia GeForce GT 730,Dedicada,GDDR5 / DDR3,1GB / 2GB,4096 x 2160,"HDMI, DVI, VGA"
+Dahili Ekran Kartı,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+NVIDIA GeForce GT1030,Dedicada,GDDR5,2GB,7680 x 4320,"HDMI, DisplayPort (o DVI)"
+Nvidia GeForce GTX 1650,Dedicada,GDDR5 / GDDR6,4GB,7680 x 4320,"DisplayPort, HDMI, DVI"
+Intel HD Graphics,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+Intel UHD Graphics 770,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+AMD Radeon RX 550,Dedicada,GDDR5,2GB / 4GB,4096 x 2160,"DisplayPort, HDMI, DVI"
+Intel UHD Graphics 730,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+AMD Radeon Graphics,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+Nvidia GeForce RTX 4060,Dedicada,GDDR6,8GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+Nvidia RTX A2000,Dedicada (Profesional),GDDR6,6GB / 12GB,7680 x 4320,Mini DisplayPort (x4)
+Nvidia Geforce GT 740,Dedicada,GDDR5 / DDR3,1GB / 2GB,4096 x 2160,"HDMI, DVI, VGA"
+Nvidia GeForce RTX 4070,Dedicada,GDDR6X,12GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+AMD Radeon RX 580,Dedicada,GDDR5,4GB / 8GB,7680 x 4320,"DisplayPort, HDMI, DVI"
+AMD Radeon R7 240,Dedicada,DDR3,1GB / 2GB,4096 x 2160,"HDMI, DVI, VGA"
+Nvidia GeForce RTX 4060Ti,Dedicada,GDDR6,8GB / 16GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+AMD Radeon R5,Dedicada,Varía,Varía,Varía,Varía
+Belirtilmemiş,Desconocida,Desconocida,Desconocida,Desconocida,Desconocida
+AMD Radeon R5 230,Dedicada,DDR3,1GB / 2GB,4096 x 2160,"HDMI, DVI, VGA"
+Nvidia GeForce RTX 3080,Dedicada,GDDR6X,10GB / 12GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+Nvidia GeForce RTX 3050,Dedicada,GDDR6,6GB / 8GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+Nvidia GeForce RTX3060,Dedicada,GDDR6,12GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+Nvidia GeForce RTX 4090Ti,Dedicada,GDDR6X,24GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+Intel Iris Graphics,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+Nvidia GeForce GTX1050 Ti,Dedicada,GDDR5,4GB,7680 x 4320,"DisplayPort, HDMI, DVI"
+Nvidia RTX A4000,Dedicada (Profesional),GDDR6,16GB,7680 x 4320,DisplayPort (x4)
+Nvidia GeForce MX110,Dedicada (Móvil),DDR5 / GDDR5,2GB,Varía,Varía según la laptop
+Intel UHD Graphics 600,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+Nvidia GeForce GTX 1660 SUPER,Dedicada,GDDR6,6GB,7680 x 4320,"DisplayPort, HDMI, DVI"
+Nvidia Quadro T1000,Dedicada (Profesional),GDDR6,4GB,7680 x 4320,Mini DisplayPort (x4)
+Nvidia GeForce GTX1650 Ti,Dedicada (Móvil),GDDR6,4GB,Varía,Varía según la laptop
+Nvidia GeForce RTX 3070,Dedicada,GDDR6,8GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+AMD Radeon RX 570,Dedicada,GDDR5,4GB / 8GB,7680 x 4320,"DisplayPort, HDMI, DVI"
+Nvidia Quadro T600,Dedicada (Profesional),GDDR5,4GB,7680 x 4320,Mini DisplayPort (x4)
+AMD Radeon RX 560,Dedicada,GDDR5,2GB / 4GB,4096 x 2160,"DisplayPort, HDMI, DVI"
+Nvidia GeForce RTX 4070Ti SUPER,Dedicada,GDDR6X,16GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+AMD Radeon RX 550X,Dedicada,GDDR5,2GB / 4GB,4096 x 2160,"DisplayPort, HDMI, DVI"
+AMD CPU Entegre Grafik,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+Intel UHD Graphics 630,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+Nvidia Geforce GT 710,Dedicada,DDR3,1GB / 2GB,2560 x 1600,"HDMI, DVI, VGA (puede variar)"
+Nvidia GeForce RTX 4070Ti,Dedicada,GDDR6X,12GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
+NVIDIA Quadro RTX 4000,Dedicada (Profesional),GDDR6,8GB,7680 x 4320,"DisplayPort (x3), USB-C"
+Nvidia Quadro T400,Dedicada (Profesional),GDDR6,2GB,7680 x 4320,Mini DisplayPort (x3)
+Intel HD Graphics 5500,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+Nvidia RTX A5000,Dedicada (Profesional),GDDR6,24GB,7680 x 4320,DisplayPort (x4)
+Intel HD Graphics 4400,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
+Nvidia GeForce GTX 750,Dedicada,GDDR5,1GB / 2GB,4096 x 2160,"HDMI, DVI"
+Nvidia GeForce GT 520M,Dedicada (Móvil),DDR3,1GB,Varía,Varía según la laptop
+NVIDIA RTX A2000,Dedicada (Profesional),GDDR6,6GB / 12GB,7680 x 4320,Mini DisplayPort (x4)
