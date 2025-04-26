@@ -1,4 +1,4 @@
-Tipo_Procesador	Cantidad_Nucleos	Modelo	Velocidad_Procesador	Generacion_Procesador	Tipo de RAM
+Tipo_Procesador	Cantidad_Nucleos	Modelo	Velocidad_Procesador	Generacion_Procesador	Tipo_RAM
 Intel Core i5	6	i5-10400	2.9 (Turbo: 4.3)	10	DDR4
 Intel Core i5	6	i5-11400	2.6 (Turbo: 4.4)	11	DDR4
 Intel Core i5	6	i5-12400	2.5 (Turbo: 4.4)	12	DDR4/DDR5
