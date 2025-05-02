@@ -10,10 +10,10 @@ AMD Radeon RX 550,Dedicada,GDDR5,4GB,4096 x 2160,"DisplayPort, HDMI, DVI"
 Intel UHD Graphics 730,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
 AMD Radeon Graphics,Integrada,Compartida,Compartida con la RAM del sistema,Varía según la CPU,Varía según la placa madre y CPU
 Nvidia GeForce RTX 4060,Dedicada,GDDR6,8GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
-Nvidia RTX A2000,Dedicada (Profesional),GDDR6,6GB / 12GB,7680 x 4320,Mini DisplayPort (x4)
+Nvidia RTX A2000,Dedicada (Profesional),GDDR6,12GB,7680 x 4320,Mini DisplayPort (x4)
 Nvidia Geforce GT 740,Dedicada,GDDR5 / DDR3,2GB,4096 x 2160,"HDMI, DVI, VGA"
 Nvidia GeForce RTX 4070,Dedicada,GDDR6X,12GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
-AMD Radeon RX 580,Dedicada,GDDR5,4GB / 8GB,7680 x 4320,"DisplayPort, HDMI, DVI"
+AMD Radeon RX 580,Dedicada,GDDR5,8GB,7680 x 4320,"DisplayPort, HDMI, DVI"
 AMD Radeon R7 240,Dedicada,DDR3,2GB,4096 x 2160,"HDMI, DVI, VGA"
 Nvidia GeForce RTX 4060Ti,Dedicada,GDDR6,16GB,7680 x 4320,"DisplayPort 1.4a, HDMI 2.1"
 AMD Radeon R5,Dedicada,Varía,Varía,Varía,Varía
